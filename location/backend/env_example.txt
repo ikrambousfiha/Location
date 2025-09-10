@@ -1,0 +1,8 @@
+# WhatsApp Business API Configuration
+WHATSAPP_TOKEN=your_whatsapp_business_api_token_here
+WHATSAPP_PHONE_NUMBER_ID=your_phone_number_id_here
+WHATSAPP_RECIPIENT_NUMBER=your_whatsapp_number_here
+
+# Flask Configuration
+FLASK_ENV=development
+FLASK_DEBUG=True
